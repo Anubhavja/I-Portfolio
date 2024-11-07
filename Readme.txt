@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Developed a personal portfolio website using the Bootstrap framework, showcasing my skills, projects, and experience. Implemented responsive design and interactive elements to create a professional and user-friendly platform.
+NOTE: Run resume.html file
